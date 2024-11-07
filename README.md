@@ -1,5 +1,5 @@
 # Blood Group Detection Using Deep Learning
-
+![blood images](https://media.cnn.com/api/v1/images/stellar/prod/200714121605-hp-only-20200714-blood-groups-card.png?q=w_3201,h_1800,x_0,y_0,c_fill)
 ## Problem Statement
 Determining a person's blood group is essential for medical diagnostics and emergency care. Current methods often rely on manual laboratory procedures that are time-consuming and require specialized expertise. This project leverages supervised machine learning to automate blood group detection, using deep learning models trained to classify blood types based on image data, thereby enhancing accessibility and efficiency.
 
