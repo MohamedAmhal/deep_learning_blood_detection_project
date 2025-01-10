@@ -15,10 +15,10 @@ We employ two main datasets in this project:
 - **Fingerprint Image Dataset**: An innovative dataset linking fingerprint images with blood group classifications, enabling the development of a model that detects blood types from biometric patterns.
 
 ## Project Steps
-- [ ] **Data Preprocessing**: Cleaning and preparing the datasets to ensure high-quality input for training.
-- [ ] **Model 1 - Blood Image Classification**: Building a deep learning model to classify blood groups using microscopic blood images.
-- [ ] **Model 2 - Fingerprint Image Classification**: Creating a second deep learning model focused on fingerprint images for blood group classification.
-- [ ] **Comparison of Models**: Evaluating both models' performance to determine the most accurate and reliable approach.
-- [ ] **Deployment**: Integrating the top-performing model into a web-based application for user accessibility.
-- [ ] **Testing**: Rigorously testing the chosen model to ensure robust performance under various conditions.
+- [x] **Data Preprocessing**: Cleaning and preparing the datasets to ensure high-quality input for training.
+- [x] **Model 1 - Blood Image Classification**: Building a deep learning model to classify blood groups using microscopic blood images.
+- [x] **Model 2 - Fingerprint Image Classification**: Creating a second deep learning model focused on fingerprint images for blood group classification.
+- [x] **Comparison of Models**: Evaluating both models' performance to determine the most accurate and reliable approach.
+- [x] **Deployment**: Integrating the top-performing model into a web-based application for user accessibility.
+- [x] **Testing**: Rigorously testing the chosen model to ensure robust performance under various conditions.
 
